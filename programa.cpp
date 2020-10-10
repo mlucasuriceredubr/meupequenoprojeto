@@ -11,6 +11,6 @@ int funcao4(int a, int b)
 int main()
 {
   // Mostra uma mensagem de ola mundo
-  cout << "ola mundo com nova formula!" << endl;
+  cout << "Ola mundo com nova formula." << endl;
   return 0;
 }
