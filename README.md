@@ -12,7 +12,7 @@ Utilize git clone no endereco acima e depois rode os comandos.......
 
 ## Para a funcionalidade 4
 
-Voce precisa ter .......
+Voce precisa ter .......   e agora com nova formula, blablablalbalblab
 
 
 
