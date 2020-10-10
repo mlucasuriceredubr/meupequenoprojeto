@@ -4,7 +4,7 @@ using namespace std;
 // esta funcao recebe dois parametros e retorna um inteiro
 int funcao4(int a, int b)
 {
-	int x = (a+b)*(a-b)+(a-b)/(a+b);
+	int x = ( a + b )*( a - b )+(a-b)/(a+b);
 	return x;
 }
 
